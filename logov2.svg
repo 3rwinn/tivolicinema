@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 151 154">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e82525;
+        font-size: 70px;
+        font-family: Bison-BoldItallic, Bison Itallic;
+        font-weight: 700;
+        font-style: italic;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-family: Bison-Regular, Bison;
+        font-weight: 400;
+        font-style: normal;
+      }
+    </style>
+  </defs>
+  <g id="logov2" transform="translate(-163 -83)">
+    <text id="TIVOLI_CINEMA" data-name="TIVOLI
+CINEMA" class="cls-1" transform="translate(308 153)"><tspan x="-131.39" y="0">TIVOLI</tspan><tspan class="cls-2"><tspan x="-144.76" y="70">CINEMA</tspan></tspan></text>
+  </g>
+</svg>
